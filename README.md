@@ -68,8 +68,3 @@ IRCTC/
 - Database integration
 - Seat locking and waitlist logic
 - Web or mobile frontend
-
-
-👨‍💻 Author
-
-Nitin Saini
